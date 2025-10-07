@@ -2233,7 +2233,7 @@
         <guava.version>33.4.8-jre</guava.version>
         <hamcrest.version>3.0</hamcrest.version>
         <helidon.version>1.4.15</helidon.version>
-        <helidon.connector.version>2.6.12</helidon.connector.version>
+        <helidon.connector.version>2.6.13</helidon.connector.version>
         <xmlunit.version>2.10.3</xmlunit.version>
         <httpclient.version>4.5.14</httpclient.version>
         <httpclient5.version>5.5</httpclient5.version>
